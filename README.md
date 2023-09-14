@@ -2,4 +2,4 @@
 ## Curso - Primeiros passos com a Linguagem JavaScript
 Aprenda JavaScript de forma simples.
 
-![HomemLetra]{https://github.com/felipemmt/javascript/blob/main/homem-letra.gif}
+![HomemLetra](https://github.com/felipemmt/javascript/blob/main/homem-letra.gif)
